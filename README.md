@@ -1,0 +1,32 @@
+# Amazon Sales Data Analysis using SQL
+
+## Project Overview
+This project analyzes Amazon sales data using SQL to identify sales trends,
+customer behavior, revenue patterns, and VAT contributions.
+
+## Dataset
+The dataset contains Amazon sales transactions with the following fields:
+City, Branch, Product Line, Customer Type, Gender, Payment Method,
+Quantity, Unit Price, COGS, VAT, Date, Time, and Rating.
+
+## Tools Used
+- MySQL
+- SQL (GROUP BY, HAVING, Subqueries, Window Functions)
+- MySQL Workbench
+
+## Key Analysis Performed
+- Identified top-performing product lines and cities
+- Analyzed monthly revenue and cost (COGS)
+- Studied customer types based on revenue and VAT contribution
+- Analyzed sales by weekday/weekend and time of day
+- Used window functions to identify gender-based product preferences
+
+## Key Insights
+- Certain product lines generate the highest revenue
+- Weekend and weekday sales patterns differ
+- Customer type significantly impacts VAT contribution
+- Sales vary across branches and cities
+
+## Conclusion
+This project demonstrates my ability to analyze real-world sales data using SQL,
+apply advanced querying techniques, and derive actionable business insights.
